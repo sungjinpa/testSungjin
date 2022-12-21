@@ -30,7 +30,7 @@ public class test9 {
 			} else {
 				System.out.println("제 3사분면");
 			}
-
+//추가추가추가수정수정
 		}
 	}
 }
